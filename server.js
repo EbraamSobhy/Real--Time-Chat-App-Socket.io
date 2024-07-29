@@ -23,3 +23,6 @@ io.on("connection", function(socket) {
 });
 
 server.listen(5000);
+
+// node server.js
+// http://localhost:5000/
